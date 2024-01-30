@@ -1,0 +1,64 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "João Silva",
+      "age": 30,
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Ana Oliveira",
+      "age": 25,
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Carlos Rocha",
+      "age": 45,
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Mariana Santos",
+      "age": 22,
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "name": "Pedro Costa",
+      "age": 38,
+      "gender": "Male"
+    },
+    {
+      "id": 6,
+      "name": "Isabela Lima",
+      "age": 28,
+      "gender": "Female"
+    },
+    {
+      "id": 7,
+      "name": "Fernando Pereira",
+      "age": 50,
+      "gender": "Male"
+    },
+    {
+      "id": 8,
+      "name": "Gabriela Almeida",
+      "age": 33,
+      "gender": "Female"
+    },
+    {
+      "id": 9,
+      "name": "Rafael Oliveira",
+      "age": 40,
+      "gender": "Male"
+    },
+    {
+      "id": 10,
+      "name": "Camila Costa",
+      "age": 27,
+      "gender": "Female"
+    }
+  ]
+}
