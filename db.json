@@ -1,64 +1,54 @@
 {
   "patients": [
-    {
-      "id": 1,
-      "name": "João Silva",
-      "age": 30,
-      "gender": "Male"
-    },
-    {
-      "id": 2,
-      "name": "Ana Oliveira",
-      "age": 25,
-      "gender": "Female"
-    },
-    {
-      "id": 3,
-      "name": "Carlos Rocha",
-      "age": 45,
-      "gender": "Male"
-    },
-    {
-      "id": 4,
-      "name": "Mariana Santos",
-      "age": 22,
-      "gender": "Female"
-    },
-    {
-      "id": 5,
-      "name": "Pedro Costa",
-      "age": 38,
-      "gender": "Male"
-    },
-    {
-      "id": 6,
-      "name": "Isabela Lima",
-      "age": 28,
-      "gender": "Female"
-    },
-    {
-      "id": 7,
-      "name": "Fernando Pereira",
-      "age": 50,
-      "gender": "Male"
-    },
-    {
-      "id": 8,
-      "name": "Gabriela Almeida",
-      "age": 33,
-      "gender": "Female"
-    },
-    {
-      "id": 9,
-      "name": "Rafael Oliveira",
-      "age": 40,
-      "gender": "Male"
-    },
-    {
-      "id": 10,
-      "name": "Camila Costa",
-      "age": 27,
-      "gender": "Female"
-    }
+    {"id": 1, "name": "João Silva", "age": 30, "gender": "Male"},
+    {"id": 2, "name": "Ana Oliveira", "age": 25, "gender": "Female"},
+    {"id": 3, "name": "Carlos Rocha", "age": 45, "gender": "Male"},
+    {"id": 4, "name": "Mariana Santos", "age": 22, "gender": "Female"},
+    {"id": 5, "name": "Pedro Costa", "age": 38, "gender": "Male"},
+    {"id": 6, "name": "Isabela Lima", "age": 28, "gender": "Female"},
+    {"id": 7, "name": "Fernando Pereira", "age": 50, "gender": "Male"},
+    {"id": 8, "name": "Gabriela Almeida", "age": 33, "gender": "Female"},
+    {"id": 9, "name": "Rafael Oliveira", "age": 40, "gender": "Male"},
+    {"id": 10, "name": "Camila Costa", "age": 27, "gender": "Female"},
+    {"id": 11, "name": "Júlia Lima", "age": 34, "gender": "Female"},
+    {"id": 12, "name": "José Silva", "age": 42, "gender": "Male"},
+    {"id": 13, "name": "Amanda Santos", "age": 26, "gender": "Female"},
+    {"id": 14, "name": "Lucas Oliveira", "age": 32, "gender": "Male"},
+    {"id": 15, "name": "Beatriz Costa", "age": 31, "gender": "Female"},
+    {"id": 16, "name": "Matheus Rocha", "age": 29, "gender": "Male"},
+    {"id": 17, "name": "Laura Pereira", "age": 35, "gender": "Female"},
+    {"id": 18, "name": "Felipe Almeida", "age": 39, "gender": "Male"},
+    {"id": 19, "name": "Giovanna Lima", "age": 24, "gender": "Female"},
+    {"id": 20, "name": "Vinícius Costa", "age": 37, "gender": "Male"},
+    {"id": 21, "name": "Eduarda Santos", "age": 23, "gender": "Female"},
+    {"id": 22, "name": "Bruno Oliveira", "age": 36, "gender": "Male"},
+    {"id": 23, "name": "Larissa Silva", "age": 41, "gender": "Female"},
+    {"id": 24, "name": "Diego Rocha", "age": 30, "gender": "Male"},
+    {"id": 25, "name": "Sophia Almeida", "age": 28, "gender": "Female"},
+    {"id": 26, "name": "Raul Pereira", "age": 44, "gender": "Male"},
+    {"id": 27, "name": "Mariana Costa", "age": 27, "gender": "Female"},
+    {"id": 28, "name": "Cauã Lima", "age": 29, "gender": "Male"},
+    {"id": 29, "name": "Eloá Oliveira", "age": 25, "gender": "Female"},
+    {"id": 30, "name": "Henrique Santos", "age": 33, "gender": "Male"},
+    {"id": 31, "name": "Clara Rocha", "age": 30, "gender": "Female"},
+    {"id": 32, "name": "Arthur Costa", "age": 31, "gender": "Male"},
+    {"id": 33, "name": "Lívia Pereira", "age": 26, "gender": "Female"},
+    {"id": 34, "name": "Enzo Almeida", "age": 34, "gender": "Male"},
+    {"id": 35, "name": "Valentina Lima", "age": 29, "gender": "Female"},
+    {"id": 36, "name": "Gustavo Oliveira", "age": 40, "gender": "Male"},
+    {"id": 37, "name": "Antonella Costa", "age": 28, "gender": "Female"},
+    {"id": 38, "name": "Leonardo Rocha", "age": 32, "gender": "Male"},
+    {"id": 39, "name": "Isis Silva", "age": 31, "gender": "Female"},
+    {"id": 40, "name": "Davi Almeida", "age": 35, "gender": "Male"},
+    {"id": 41, "name": "Maria Costa", "age": 27, "gender": "Female"},
+    {"id": 42, "name": "Francisco Lima", "age": 38, "gender": "Male"},
+    {"id": 43, "name": "Luísa Oliveira", "age": 29, "gender": "Female"},
+    {"id": 44, "name": "Bernardo Santos", "age": 33, "gender": "Male"},
+    {"id": 45, "name": "Laura Almeida", "age": 26, "gender": "Female"},
+    {"id": 46, "name": "Daniel Rocha", "age": 37, "gender": "Male"},
+    {"id": 47, "name": "Cecília Lima", "age": 28, "gender": "Female"},
+    {"id": 48, "name": "Thiago Costa", "age": 34, "gender": "Male"},
+    {"id": 49, "name": "Marina Silva", "age": 30, "gender": "Female"},
+    {"id": 50, "name": "João Oliveira", "age": 36, "gender": "Male"}
   ]
 }
